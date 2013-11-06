@@ -1,5 +1,4 @@
-#class AlphabetController < UIViewController 
-class AlphabetController < UITableViewController
+class AlphabetController < UIViewController 
 
   def viewDidLoad
     super
